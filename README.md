@@ -1,2 +1,3 @@
-# noobrepo
-just to test my repo
+LHOST: listener
+LPORT: portador diario
+End

